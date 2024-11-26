@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/views/login.jsp</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/LoginServlet.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/DeleteUserServlet.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/EditMenuServlet.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/WEB-INF/rbac_config.xml</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/DatabaseConnection.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/views/edit_user.jsp</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/views/create_menu.jsp</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/views/create_user.jsp</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/CreateUserServlet.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/views/list_users.jsp</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/util/RBACConfigLoader.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/DeleteMenuServlet.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/views/dashboard.jsp</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/views/edit_menu.jsp</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/AppContextListener.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/views/list_menus.jsp</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/LoginFilter.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/EditUserServlet.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/CreateMenuServlet.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/util/PasswordUtils.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/src/java/com/example/LogoutServlet.java</file>
+            <file>file:/C:/Internal/kuliah/quiz2-jsp/web/views/default.jsp</file>
+        </group>
+    </open-files>
+</project-private>

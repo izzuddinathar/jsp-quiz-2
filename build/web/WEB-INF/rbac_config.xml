@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rbac>
+    <role name="owner">
+        <permission>Laporan Penjualan</permission>
+        <permission>Program Penjualan</permission>
+    </role>
+    <role name="admin">
+        <permission>User</permission>
+        <permission>Menu</permission>
+        <permission>Pembayaran</permission>
+        <permission>Inventory</permission>
+    </role>
+    <role name="waiters">
+        <permission>Meja</permission>
+        <permission>Reservasi</permission>
+        <permission>Pesanan</permission>
+    </role>
+    <role name="cook">
+        <permission>Pesanan</permission>
+    </role>
+    <role name="cleaner">
+        <permission>Meja</permission>
+    </role>
+</rbac>
